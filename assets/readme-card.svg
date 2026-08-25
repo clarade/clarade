@@ -88,7 +88,15 @@
     <line x1="28" y1="452" x2="652" y2="452" stroke="#21262d"/>
 
     <!-- sign-off -->
-    <text x="28" y="480" font-size="13" fill="#8b949e">🍕 Toujours partante pour parler produit, design ou débattre de la pizza</text>
+    <g transform="translate(28,464)">
+      <g transform="scale(0.75)" fill="none" stroke="#e5484d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 21 L4 5 A10 6 0 0 1 20 5 Z"/>
+        <circle cx="9" cy="10" r="1" fill="#e5484d" stroke="none"/>
+        <circle cx="14" cy="9" r="1" fill="#e5484d" stroke="none"/>
+        <circle cx="12" cy="14" r="1" fill="#e5484d" stroke="none"/>
+      </g>
+      <text x="24" y="13" font-size="13" fill="#8b949e">Toujours partante pour parler produit, design ou débattre de la pizza</text>
+    </g>
     <text x="28" y="498" font-size="13" fill="#8b949e">à l'ananas (spoiler : non)</text>
 
   </g>

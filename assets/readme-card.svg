@@ -1,1 +1,99 @@
+<svg width="680" height="520" viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg">
 
+  <rect width="680" height="520" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- greeting -->
+    <g transform="translate(28,30)">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7fd88a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 22V13"/>
+        <path d="M12 13c-3 0-5.5-2-5.5-5.5C9 8 12 8 12 13Z"/>
+        <path d="M12 13c3 0 5.5-2 5.5-5.5C15 8 12 8 12 13Z"/>
+        <path d="M12 9c-1-2-.5-4.5 1.5-6.5C15.5 4.5 15 7 14 9"/>
+      </svg>
+      <text x="26" y="14" font-size="16" fill="#e6edf3">Hey, moi c'est Clara</text>
+    </g>
+
+    <!-- tagline -->
+    <text x="28" y="70" font-size="14" fill="#c9d1d9">
+      <tspan font-weight="700" fill="#e6edf3">Product Designer</tspan> — je conçois des produits digitaux, de la recherche
+    </text>
+    <text x="28" y="90" font-size="14" fill="#c9d1d9">utilisateur à la delivery.</text>
+
+    <!-- Focus label -->
+    <text x="28" y="126" font-size="12" fill="#6e7681" letter-spacing="0.3">FOCUS</text>
+
+    <!-- card 1: Product design -->
+    <g transform="translate(28,136)">
+      <rect width="306" height="104" rx="8" fill="none" stroke="#30363d"/>
+      <g transform="translate(18,18)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#e8b93c" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.276-.29-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/>
+          <circle cx="6.5" cy="11.5" r=".8" fill="#e8b93c" stroke="none"/>
+          <circle cx="9.5" cy="7.5" r=".8" fill="#e8b93c" stroke="none"/>
+          <circle cx="14.5" cy="7.5" r=".8" fill="#e8b93c" stroke="none"/>
+          <circle cx="17.5" cy="11.5" r=".8" fill="#e8b93c" stroke="none"/>
+        </svg>
+      </g>
+      <text x="18" y="60" font-size="14" font-weight="700" fill="#e6edf3">Product design</text>
+      <text x="18" y="79" font-size="13" fill="#8b949e">UX research, UI, prototyping,</text>
+      <text x="18" y="95" font-size="13" fill="#8b949e">design systems</text>
+    </g>
+
+    <!-- card 2: Product building -->
+    <g transform="translate(346,136)">
+      <rect width="306" height="104" rx="8" fill="none" stroke="#30363d"/>
+      <g transform="translate(18,18)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#4fc3b0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/>
+          <polyline points="3.29 7 12 12 20.71 7"/>
+          <line x1="12" y1="22" x2="12" y2="12"/>
+        </svg>
+      </g>
+      <text x="18" y="60" font-size="14" font-weight="700" fill="#e6edf3">Product building</text>
+      <text x="18" y="79" font-size="13" fill="#8b949e">0 to 1, shipping, iterating</text>
+      <text x="18" y="95" font-size="13" fill="#8b949e">with dev teams</text>
+    </g>
+
+    <!-- Tools label -->
+    <text x="28" y="270" font-size="12" fill="#6e7681" letter-spacing="0.3">TOOLS</text>
+
+    <!-- tool pills -->
+    <g font-size="13">
+      <rect x="28" y="280" width="66" height="30" rx="15" fill="#3a2f4a"/>
+      <text x="61" y="300" text-anchor="middle" fill="#d4bdf0">Figma</text>
+
+      <rect x="102" y="280" width="66" height="30" rx="15" fill="#1f3a45"/>
+      <text x="135" y="300" text-anchor="middle" fill="#a0e6f0">React</text>
+
+      <rect x="176" y="280" width="106" height="30" rx="15" fill="#1c3355"/>
+      <text x="229" y="300" text-anchor="middle" fill="#a8c8ec">TypeScript</text>
+
+      <rect x="290" y="280" width="140" height="30" rx="15" fill="#3a2a20"/>
+      <text x="360" y="300" text-anchor="middle" fill="#e8b896">Claude Design</text>
+
+      <rect x="438" y="280" width="122" height="30" rx="15" fill="#3a2418"/>
+      <text x="499" y="300" text-anchor="middle" fill="#eda878">Claude Code</text>
+    </g>
+
+    <!-- Portfolio label -->
+    <text x="28" y="354" font-size="12" fill="#6e7681" letter-spacing="0.3">PORTFOLIO</text>
+
+    <!-- portfolio bar -->
+    <g transform="translate(28,364)">
+      <rect width="624" height="50" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="18" y="30" font-size="14" fill="#e6edf3">clara.desperben.fr</text>
+      <circle cx="597" cy="25" r="13" fill="#21262d" stroke="#30363d"/>
+      <text x="597" y="30" text-anchor="middle" font-size="13" fill="#e6edf3">→</text>
+    </g>
+
+    <!-- divider -->
+    <line x1="28" y1="452" x2="652" y2="452" stroke="#21262d"/>
+
+    <!-- sign-off -->
+    <text x="28" y="480" font-size="13" fill="#8b949e">🍕 Toujours partante pour parler produit, design ou débattre de la pizza</text>
+    <text x="28" y="498" font-size="13" fill="#8b949e">à l'ananas (spoiler : non)</text>
+
+  </g>
+</svg>

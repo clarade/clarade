@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/clarade/clarade/main/assets/icon-tulip.svg" height="16" align="absmiddle"> **Hey, moi c'est Clara**
 
-**Product Designer** — je conçois des produits digitaux, de la recherche utilisateur à la delivery.
 
 <a href="https://clara.desperben.fr/">
   <img src="https://raw.githubusercontent.com/clarade/clarade/main/assets/readme-card.svg" alt="Focus : product design et product building. Outils : Figma, React, TypeScript, Claude Design, Claude Code. Portfolio : clara.desperben.fr" width="100%" />

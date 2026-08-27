@@ -64,7 +64,10 @@
       <rect width="624" height="50" rx="8" fill="#161b22" stroke="#30363d"/>
       <text x="18" y="30" font-size="14" fill="#e6edf3">clara.desperben.fr</text>
       <circle cx="597" cy="25" r="13" fill="#21262d" stroke="#30363d"/>
-      <text x="597" y="30" text-anchor="middle" font-size="13" fill="#e6edf3">→</text>
+      <g transform="translate(597,25)" stroke="#e6edf3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <line x1="-4.5" y1="0" x2="4.5" y2="0"/>
+        <polyline points="1.5,-4 5,0 1.5,4"/>
+      </g>
     </g>
 
   </g>
